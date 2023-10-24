@@ -1,7 +1,11 @@
-p{color:red;
+.paragrafo{
+    color:red;
 text-align: center;
 font-size: 40px;
 }
-h1{
+#tituloPrincipal{
     color: blue;
+}
+body{
+    background-color: aqua;
 }
